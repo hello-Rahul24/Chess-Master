@@ -1,4 +1,4 @@
-# Chess Legends
+# Chess Masters
 
 A React-based Chess application built with TypeScript, offering rich gameplay features, a responsive user interface, and seamless state management.
 
@@ -32,8 +32,8 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/chesslegends.git
-   cd chesslegends
+   git clone https://github.com/yourusername/chessmasters.git
+   cd chessmasters
    
 
 2. Install dependencies:
@@ -75,7 +75,7 @@ The production build will be available in the build folder.
 ## Project Structure
 
 
-chesslegends/
+chessmasters/
 ├── src/
 │   ├── components/   # Reusable UI components
 │   ├── screens/      # Application screens
@@ -115,3 +115,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 Special thanks to contributors and open-source projects that make this possible!
+
